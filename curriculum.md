@@ -3,13 +3,15 @@ layout: page
 title: Curriculum
 ---
 
-## So you want to do operator theory
+## So you want to do operator theory (testing layout)
 
 #### Getting started
 
 - Take linear algebra
 
 - Take more linear algebra
+
+- Take as much complex analysis as possible
 
 - Read or use Axler's _Linear Algebra Done Right_
 

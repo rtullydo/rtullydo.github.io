@@ -1,6 +1,7 @@
 ---
 layout: page
 title: OPT-IN
+permalink: "index.html"
 ---
 
 

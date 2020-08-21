@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Curriculum
+permalink: "curriculum.html"
 ---
 
-## So you want to do operator theory (testing layout)
+# So you want to do operator theory (testing layout)
 
 #### Getting started
 

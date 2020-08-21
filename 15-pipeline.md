@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Pipeline
+title: Pipeline
 permalink: "pipeline.html"
 ---
 

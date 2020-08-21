@@ -3,9 +3,9 @@ layout: page
 title: Curriculum
 ---
 
-## So you want to do operatory theory
+## So you want to do operator theory
 
-### Getting started
+#### Getting started
 
 - Take linear algebra
 
@@ -15,7 +15,7 @@ title: Curriculum
 
 - Follow up with Young's _Introduction to Hilbert Space_
 
-### Graduate school
+#### Graduate school
 
 - Ideally, you'll take a year each of real, complex, and functional analysis
 

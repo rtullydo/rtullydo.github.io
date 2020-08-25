@@ -29,21 +29,21 @@ permalink: "pipeline.html"
 
 - Funding opportunities
 
-	-[NSF DMS Analysis Grant][4]
+	- [NSF DMS Analysis Grant][4]
 
-	-[AMS-Simons Travel Grant][5]
+	- [AMS-Simons Travel Grant][5]
 
-	-[Simons Collaboration Grant][6] (at PhD granting institutions)
+	- [Simons Collaboration Grant][6] (at PhD granting institutions)
 
 ## Tenure-line 
 
 - Funding opportunities
 
-	-[NSF DMS Analysis Grant][4]
+	- [NSF DMS Analysis Grant][4]
 
-	-[NSF CAREER Grant][7]
-	
-	-[Simons Collaboration Grant][6] (at PhD granting institutions)
+	- [NSF CAREER Grant][7]
+
+	- [Simons Collaboration Grant][6] (at PhD granting institutions)
 
 
 [1]:<https://math.dartmouth.edu/graduate-students/current/guide/GradGuide.pdf>

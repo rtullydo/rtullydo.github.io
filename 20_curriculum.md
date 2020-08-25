@@ -16,7 +16,7 @@ permalink: "curriculum.html"
 
 - Read or use Sheldon Axler's _Linear Algebra Done Right_
 
-	- <https://linear.axler.net> A complete video lecture series by Sheldon Axler and other resources
+	- <http://linear.axler.net> A complete video lecture series by Sheldon Axler and other resources
 
 - Follow up with Nicholas Young's _Introduction to Hilbert Space_
 
@@ -30,4 +30,4 @@ permalink: "curriculum.html"
  
 - Consider matrix theory, probability, and abstract algebra
 
-[1]:<https://math.newhaven.edu/rtullydo/hilbert/hilbert.html>
+[1]:<http://math.newhaven.edu/rtullydo/hilbert/hilbert.html>

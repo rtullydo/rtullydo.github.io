@@ -10,7 +10,7 @@ permalink: "curriculum.html"
 
 - Take as much linear algebra as possibe
 
-	- Horn and Garcia's _A Second Course in Linear ALgebra_
+	- Horn and Garcia's _A Second Course in Linear Algebra_
 
 	- Sergei Treil's [Linear Algebra Done Wrong][2] 
 

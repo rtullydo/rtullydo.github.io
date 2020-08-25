@@ -24,6 +24,8 @@ permalink: "pipeline.html"
 
 - How to write and give a talk
 
+	- [How to give a good colloquium][8], by [John McCarthy][9]
+
 
 ## Post-PhD (postdocs, VAPs, etc.)
 
@@ -53,4 +55,6 @@ permalink: "pipeline.html"
 [5]:<http://www.ams.org/programs/travel-grants/AMS-SimonsTG>
 [6]:<https://www.simonsfoundation.org/grant/collaboration-grants-for-mathematicians/>
 [7]:<https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214>
+[8]:<https://www.math.wustl.edu/~mccarthy/public_papers/colloquium.pdf>
+[9]:<https://www.math.wustl.edu/~mccarthy/>
 

@@ -18,6 +18,8 @@ permalink: "curriculum.html"
 
 	- Donald Sarason's _Complex Function Theory_ is a short and self-contained one semester introduction
 
+	- [A First Course in Complex Analysis][3] by Beck, Marchesi, Pixton, and Sabalka
+
 - Read Sheldon Axler's _Linear Algebra Done Right_ if you didn't use it for your second linear algebra course
 
 	- <http://linear.axler.net> A complete video lecture series by Sheldon Axler and other resources
@@ -36,3 +38,4 @@ permalink: "curriculum.html"
 
 [1]:<http://math.newhaven.edu/rtullydo/hilbert/hilbert.html>
 [2]:<https://www.math.brown.edu/~treil/papers/LADW/LADW.html>
+[3]:<http://math.sfsu.edu/beck/complex.html>

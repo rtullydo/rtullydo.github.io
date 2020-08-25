@@ -32,7 +32,7 @@ permalink: "pipeline.html"
 ## Tenure-line 
 - Funding opportunities
 	-[NSF DMS Analysis Grant][4]
-	-NSF CAREER Grant
+	-[NSF CAREER Grant][7]
 	-[Simons Collaboration Grant][6] (at PhD granting institutions)
 
 
@@ -42,4 +42,5 @@ permalink: "pipeline.html"
 [4]:<https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5434>
 [5]:<http://www.ams.org/programs/travel-grants/AMS-SimonsTG>
 [6]:<https://www.simonsfoundation.org/grant/collaboration-grants-for-mathematicians/>
+[7]:<https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214>
 

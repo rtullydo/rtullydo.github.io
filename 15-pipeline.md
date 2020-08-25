@@ -9,12 +9,15 @@ permalink: "pipeline.html"
 ## Graduate students
 
 - How to succeed as a graduate student in mathematics
+
 	- [Dartmouth guide to math grad school][1]
 
 - How and when to use the ArXiV
 
 - Funding opportunities
+
 	- [NSF Graduate Fellowships][2]
+
 	- [NSF Postdocs in mathematics][3]
 
 - Applying for jobs in a math department
@@ -22,17 +25,24 @@ permalink: "pipeline.html"
 - How to write and give a talk
 
 
-##Post-PhD (postdocs, VAPs, etc.)
+## Post-PhD (postdocs, VAPs, etc.)
 
 - Funding opportunities
+
 	-[NSF DMS Analysis Grant][4]
+
 	-[AMS-Simons Travel Grant][5]
+
 	-[Simons Collaboration Grant][6] (at PhD granting institutions)
 
 ## Tenure-line 
+
 - Funding opportunities
+
 	-[NSF DMS Analysis Grant][4]
+
 	-[NSF CAREER Grant][7]
+	
 	-[Simons Collaboration Grant][6] (at PhD granting institutions)
 
 

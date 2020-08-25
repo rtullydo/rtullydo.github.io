@@ -31,10 +31,10 @@ permalink: "curriculum.html"
 #### Graduate school
 
 - Ideally, you'll take a year each of real, complex, and functional analysis
-
-- You want to take a matrix theory course if possible
  
-- Consider matrix theory, probability, and abstract algebra
+- Consider matrix theory, harmonic analysis, PDE, probability, and abstract algebra
+
+- Learn some mathematical programming - many hypotheses in functional operator theory can be tested on examples
 
 [1]:<http://math.newhaven.edu/rtullydo/hilbert/hilbert.html>
 [2]:<https://www.math.brown.edu/~treil/papers/LADW/LADW.html>

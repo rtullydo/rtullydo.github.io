@@ -24,7 +24,7 @@ permalink: "curriculum.html"
 
 - Follow up with Nicholas Young's _Introduction to Hilbert Space_
 
-	- [Hilbert Space: a sequel to linear algebra][1] in progress online adaptation of Introduction to Hilbert Space by Ryan Tully-Doyle
+	- [Hilbert Space: a sequel to linear algebra][1] online text adapted from and inspired by _Introduction to Hilbert Space_ by Ryan Tully-Doyle
 
 #### Graduate school
 

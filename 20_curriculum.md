@@ -8,13 +8,17 @@ permalink: "curriculum.html"
 
 #### Getting started
 
-- Take linear algebra
+- Take as much linear algebra as possibe
 
-- Take more linear algebra
+	- Horn and Garcia's _A Second Course in Linear ALgebra_
+
+	- Sergei Treil's [Linear Algebra Done Wrong][2] 
 
 - Take as much complex analysis as possible
 
-- Read or use Sheldon Axler's _Linear Algebra Done Right_
+	- Donald Sarason's _Complex Function Theory_ is a short and self-contained one semester introduction
+
+- Read Sheldon Axler's _Linear Algebra Done Right_ if you didn't use it for your second linear algebra course
 
 	- <http://linear.axler.net> A complete video lecture series by Sheldon Axler and other resources
 
@@ -31,3 +35,4 @@ permalink: "curriculum.html"
 - Consider matrix theory, probability, and abstract algebra
 
 [1]:<http://math.newhaven.edu/rtullydo/hilbert/hilbert.html>
+[2]:<https://www.math.brown.edu/~treil/papers/LADW/LADW.html>

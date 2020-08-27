@@ -5,8 +5,8 @@ permalink: "index.html"
 ---
 
 
-<img src="assets/images/newmap.png">
-<figcaption>A partial clustered coauthor map of more than 800 mathematicians in operator theory </figcaption>
+![Operator Theory Map](assets/images/newmap.png)
+<figcaption>Figure: A partial clustered coauthor map of more than 800 mathematicians in operator theory </figcaption>
 
 Welcome to OPT-IN, a community hub for people working in operator theory, the cross-roads of analysis.
 

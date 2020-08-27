@@ -25,6 +25,6 @@ This website was created by [Ryan Tully-Doyle][4], [Kelly Bickel][5], and [J. E.
 [1]:<https://operatoralgebras.org>
 [2]:<http://internetanalysisseminar.gatech.edu/about.html>
 [3]:<https://people.clas.ufl.edu/pascoej/>
-[4]:<ryantullydoyle.com>
+[4]:<https://ryantullydoyle.com>
 [5]:<https://www.bucknell.edu/fac-staff/kelly-bickel>
 [6]:<https://people.clas.ufl.edu/pascoej/2tart-otwia/>

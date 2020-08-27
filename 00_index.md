@@ -6,7 +6,7 @@ permalink: "index.html"
 
 
 ![Operator Theory Map](assets/images/newmap.png)
-<figcaption>Figure: A partial clustered coauthor map of more than 800 mathematicians in operator theory </figcaption>
+-><figcaption>Figure: A partial clustered coauthor map of more than 800 mathematicians in operator theory </figcaption><-
 
 ## Welcome!
 

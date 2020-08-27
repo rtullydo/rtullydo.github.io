@@ -7,6 +7,6 @@ permalink: "index.html"
 
 <img src="assets/images/newmap.png">
 
-To $$H^2$$ and beyond!
+Welcome to OPT-IN, a community hub for people working in operator theory.
 
-If MathJax is working, I should be able to get \\[ 1 - \varphi(\lambda)\overline{\varphi(\mu)} = \left\langle (1 - \mu^* \lambda )u_{\lambda},u_{\mu} \right\rangle\\] to work.
+An interesting brief history of the birth of the subject can be found at <http://www.mathphysics.com/opthy/OpHistory.html>.

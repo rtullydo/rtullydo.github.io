@@ -4,6 +4,8 @@ title: Pipeline
 permalink: "pipeline.html"
 ---
 
+# Operator Theory Pipeline (Preliminary)
+
 (Currently, only US-based funding sources are linked.)
 
 ## Graduate students

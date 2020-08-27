@@ -4,7 +4,7 @@ title: Curriculum
 permalink: "curriculum.html"
 ---
 
-# So you want to do operator theory (testing layout)
+# So you want to do operator theory (Preliminary)
 
 #### Getting started
 

@@ -2,7 +2,6 @@
 layout: page
 title: Curriculum
 permalink: "curriculum.html"
-exclude: true
 ---
 
 # Working in Operator Theory (Preliminary)

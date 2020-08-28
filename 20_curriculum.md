@@ -2,9 +2,10 @@
 layout: page
 title: Curriculum
 permalink: "curriculum.html"
+exclude: true
 ---
 
-# So you want to do operator theory (Preliminary)
+# Working in Operator Theory (Preliminary)
 
 #### Getting started
 

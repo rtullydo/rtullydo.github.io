@@ -37,8 +37,14 @@ permalink: "pipeline.html"
 
 	- [AMS-Simons Travel Grant][5]
 
-	- [Simons Collaboration Grant][6] (at PhD granting institutions)
+	- [Simons Collaboration Grant][6] 
+    
+    - have a Ph.D. degree and hold a tenure-track or tenured position with a full-time appointment in a mathematics department with a Ph.D.-degree-granting program, at an institution in the United States (those with an appointment solely in a statistics department are not eligible);
+    
+    - have a current record of active research and publication in high-quality journals; and
 
+    - not currently hold any other external PI or co-PI grants, as outlined below, with an end date after September 1, 2021.
+    
 ## Tenure-line 
 
 - Funding opportunities

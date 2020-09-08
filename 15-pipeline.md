@@ -43,7 +43,11 @@ permalink: "pipeline.html"
       
         - have a current record of active research and publication in high-quality journals; and
     
-        - not currently hold any other external PI or co-PI grants, as outlined below, with an end date after September 1, 2021.
+        - not currently hold any other external PI or co-PI grants, as outlined below, with an end date after September 1, 2021
+    
+    - [Association for Women in Mathematics - Travel Grants][10]
+    
+    - [American Association for University Women - Fellowships][11]
   
 ## Tenure-line 
 
@@ -71,4 +75,6 @@ permalink: "pipeline.html"
 [7]:<https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503214>
 [8]:<https://www.math.wustl.edu/~mccarthy/public_papers/colloquium.pdf>
 [9]:<https://www.math.wustl.edu/~mccarthy/>
+[10]:<https://awm-math.org/awards/awm-grants/travel-grants/>
+[11]:<https://www.aauw.org/resources/programs/fellowships-grants/>
 

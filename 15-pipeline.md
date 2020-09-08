@@ -64,6 +64,9 @@ permalink: "pipeline.html"
         - have a current record of active research and publication in high-quality journals; and
     
         - not currently hold any other external PI or co-PI grants, as outlined below, with an end date after September 1, 2021.
+    - [Association for Women in Mathematics - Travel Grants][10]
+    
+    - [American Association for University Women - Fellowships][11]
 
 
 [1]:<https://math.dartmouth.edu/graduate-students/current/guide/GradGuide.pdf>

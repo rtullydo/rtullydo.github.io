@@ -3,7 +3,7 @@ author:
   name: 
   email: rtullydo@calpoly.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Homepage of Ryan Tully-Doyle, operator theorist at Cal Poly SLO.
+  This page is built on a modified version of the minima theme on the jekyll platform, hosted on github pages. The modifications allow rendering latex in computer modern font.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

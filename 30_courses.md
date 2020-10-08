@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Courses
-permalink:"courses.html"
+permalink: "courses.html"
 ---
 
 ### Winter 2021 (upcoming)

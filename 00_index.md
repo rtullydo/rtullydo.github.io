@@ -5,11 +5,8 @@ permalink: "index.html"
 ---
 
 
-![Operator Theory Map](assets/images/newmap.png)
-<figcaption align="center">Figure: A partial clustered coauthor map of more than 800 mathematicians in operator theory </figcaption>
+![Ryan Map](assets/images/ryan_net.png)
 
-## Welcome!
+## Ryan Tully-Doyle
 
-Welcome to OPT-IN, a community hub for people working in operator theory, the cross-roads of analysis.
-
-An interesting brief history of the birth of the subject can be found at <http://www.mathphysics.com/opthy/OpHistory.html>.
+I am an assistant professor in the Department of Mathematics at Cal Poly, San Luis Obispo (where I also did my undergraduate degree). I work in operator theory, specifically in areas related to questions of complex analysis in one and several variables. 

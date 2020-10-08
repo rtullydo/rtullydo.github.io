@@ -6,7 +6,7 @@ permalink: "projects.html"
 
 I'm very interested in modern approaches to mathematical texts. I've been using [preTeXt][1], an xml derived typesetting language, to build textbooks and course notes. Most of these projects are works in progress, but I'm happy to share.
 
-### Open source texts
+## Open source texts
 
 #### Hilbert Spaces: A sequel to linear algebra
 

@@ -29,6 +29,16 @@ These are course notes I prepared for an upper division course in numerical anal
 
 The text can be found [here][7] and the source is [here][8].
 
+### Operator Theory Community
+
+#### OPT-IN
+
+The Operator Theory Information Network is an in-development community hub for mathematicians and grad students interested in operator theory. It was inspired by the Operator Algebra Searchable Information Site ([OASIS][9]) and the [Internet Analysis Seminar][10]. I designed the website and the directory. The initiative is loosely led by me, Kelly Bickel, and J. E. Pascoe.
+
+#### OTTER
+
+Operator Theory Talks for Early Researchers ([OTTER][11]) is a related project aimed specifically at mathematical discourse and professional guidance for graduate students and postdocs. I'm involved in the project as a mentor and speaker.
+
 [1]:<https://pretextbook.org/>
 [2]:<https://rtullydo.github.io/hilbert/hilbert.html>
 [3]:<https://github.com/rtullydo/hilbert>
@@ -37,3 +47,6 @@ The text can be found [here][7] and the source is [here][8].
 [6]:<https://github.com/rtullydo/cryptography-notes>
 [7]:<https://rtullydo.github.io/numerical-analysis-unh/minimal.html>
 [8]:<https://github.com/rtullydo/numerical-analysis-unh>
+[9]:<https://operatoralgebras.org/index.html>
+[10]:<http://internetanalysisseminar.gatech.edu/index.html>
+[11]:<https://sites.google.com/view/otter-math/home>

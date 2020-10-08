@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OPT-IN
+title: Home
 permalink: "index.html"
 ---
 

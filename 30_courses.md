@@ -15,7 +15,7 @@ permalink:"courses.html"
 
 
 
-Previous courses:
+### Previous courses:
 
 - Math for Liberal Arts
 - Modern Geometry

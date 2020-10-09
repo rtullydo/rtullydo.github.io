@@ -33,7 +33,7 @@ The text can be found [here][7] and the source is [here][8].
 
 #### OPT-IN
 
-The Operator Theory Information Network is an in-development community hub for mathematicians and grad students interested in operator theory. It was inspired by the Operator Algebra Searchable Information Site ([OASIS][9]) and the [Internet Analysis Seminar][10]. I designed the website and the directory. The initiative is loosely led by me, Kelly Bickel, and J. E. Pascoe.
+The Operator Theory Information Network ([OPT-IN][12]) is an in-development community hub for mathematicians and grad students interested in operator theory. It was inspired by the Operator Algebra Searchable Information Site ([OASIS][9]) and the [Internet Analysis Seminar][10]. I designed the website and the directory. The initiative is loosely led by me, Kelly Bickel, and J. E. Pascoe.
 
 #### OTTER
 
@@ -50,3 +50,4 @@ Operator Theory Talks for Early Researchers ([OTTER][11]) is a related project a
 [9]:<https://operatoralgebras.org/index.html>
 [10]:<http://internetanalysisseminar.gatech.edu/index.html>
 [11]:<https://sites.google.com/view/otter-math/home>
+[12]:<https://operatortheory.org>

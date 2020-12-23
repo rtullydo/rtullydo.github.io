@@ -29,6 +29,14 @@ These are course notes I prepared for an upper division course in numerical anal
 
 The text can be found [here][7] and the source is [here][8].
 
+#### Linear analysis
+
+These are in progress course notes for a second course on linear analysis. Topics include the Laplace and Fourier transforms, series solutions to differential equations, Fourier, Legendre, and Frobenius series, and the linear algebraic view of functions in special spaces.
+
+These notes follow Annin and Goode's *Differential Equations and Linear Algebra* and Osgoode's *Lecture Notes on the Fourier Transform*, with various interjections from functional analysis.
+
+The text is [here][13].
+
 ### Operator Theory Community
 
 #### OPT-IN
@@ -51,3 +59,4 @@ Operator Theory Talks for Early Researchers ([OTTER][11]) is a related project a
 [10]:<http://internetanalysisseminar.gatech.edu/index.html>
 [11]:<https://sites.google.com/view/otter-math/home>
 [12]:<https://operatortheory.org>
+[13]:<https://rtullydo.github.io/linear-analysis/linanal.html>

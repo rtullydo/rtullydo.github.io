@@ -4,9 +4,15 @@ title: Courses
 permalink: "courses.html"
 ---
 
-### Winter 2021 (upcoming)
+### Spring 2021
+
+- Math 350 Mathematical Software
+	- Course page (videos, homework, notes): (Math 350)[https://rtullydo.github.io/math350/]
+
+### Winter 2021
 
 - Math 344 Linear Analysis 2
+	- video lectures: [YouTube playlist](https://www.youtube.com/watch?v=_ZBXYHb38lQ&list=PLd-yyEHYtIhKhXrzklfwupcbfe_LCcfoV)
 
 ### Fall 2020
 

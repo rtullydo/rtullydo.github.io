@@ -7,7 +7,7 @@ permalink: "courses.html"
 ### Spring 2021
 
 - Math 350 Mathematical Software
-	- Course page (videos, homework, notes): (Math 350)[https://rtullydo.github.io/math350/]
+	- Course page (videos, homework, notes): [Math 350](https://rtullydo.github.io/math350/)
 
 ### Winter 2021
 

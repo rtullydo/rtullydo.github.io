@@ -4,6 +4,10 @@ title: Courses
 permalink: "courses.html"
 ---
 
+### Fall 2021 (upcoming)
+- Math 142 Calculus 2
+- Math 550 Real Analysis
+
 ### Spring 2021
 
 - Math 350 Mathematical Software

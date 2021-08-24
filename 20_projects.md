@@ -37,6 +37,10 @@ These notes follow Annin and Goode's *Differential Equations and Linear Algebra*
 
 The text is [here][13].
 
+#### Differential equations
+
+This is an online text that I wrote with [Phanuel Mariano][14] of Union College. The text includes extensive exercises and covers a typical semester of a first course in differential equations. The text source is available for adapatation. The text is located [here][15].
+
 ### Operator Theory Community
 
 #### OPT-IN
@@ -60,3 +64,5 @@ Operator Theory Talks for Early Researchers ([OTTER][11]) is a related project a
 [11]:<https://sites.google.com/view/otter-math/home>
 [12]:<https://operatortheory.org>
 [13]:<https://rtullydo.github.io/linear-analysis/linanal.html>
+[14]:<http://www.math.union.edu/~marianop/>
+[15]:<http://www.math.union.edu/~marianop/ODEv2/frontmatter-1.html>

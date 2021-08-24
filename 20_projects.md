@@ -39,7 +39,7 @@ The text is [here][13].
 
 #### Differential equations
 
-This is an online text that I wrote with [Phanuel Mariano][14] of Union College. The text includes extensive exercises and covers a typical semester of a first course in differential equations. The text source is available for adapatation. The text is located [here][15].
+This is an online text that I wrote with [Phanuel Mariano][14] of Union College, based on a set of lecture notes that Phanuel wrote over several semesters. The text includes extensive exercises and covers a typical semester of a first course in differential equations, following the general path of Boyce and DiPrima. The text source is available for adapatation. The text is located [here][15].
 
 ### Operator Theory Community
 

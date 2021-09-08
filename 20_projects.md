@@ -6,6 +6,12 @@ permalink: "projects.html"
 
 I'm very interested in modern approaches to mathematical texts. I've been using [preTeXt][1], an xml derived typesetting language, to build textbooks and course notes. Most of these projects are works in progress, but I'm happy to share.
 
+## Supplements and code
+
+#### Dynamics of low-degree rational skew-products on $$\mathbb{T}^2$$
+
+This is a collection of pictures and code exploring the dynamics of a simple case of rational inner functions iterating the 2-torus. You can find a library of examples and the code used to produce the pictures [here][16].
+
 ## Open source texts
 
 #### Hilbert Spaces: A sequel to linear algebra
@@ -66,3 +72,4 @@ Operator Theory Talks for Early Researchers ([OTTER][11]) is a related project a
 [13]:<https://rtullydo.github.io/linear-analysis/linanal.html>
 [14]:<http://www.math.union.edu/~marianop/>
 [15]:<http://www.math.union.edu/~marianop/ODEv2/frontmatter-1.html>
+[16]:<https://github.rtullydo.io/RISP-dynamics/

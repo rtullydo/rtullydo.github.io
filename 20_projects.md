@@ -72,4 +72,4 @@ Operator Theory Talks for Early Researchers ([OTTER][11]) is a related project a
 [13]:<https://rtullydo.github.io/linear-analysis/linanal.html>
 [14]:<http://www.math.union.edu/~marianop/>
 [15]:<http://www.math.union.edu/~marianop/ODEv2/frontmatter-1.html>
-[16]:<https://github.rtullydo.io/RISP-dynamics/
+[16]:<https://github.rtullydo.io/RISP-dynamics/>

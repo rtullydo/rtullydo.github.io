@@ -47,6 +47,10 @@ The text is [here][13].
 
 This is an online text that I wrote with [Phanuel Mariano][14] of Union College, based on a set of lecture notes that Phanuel wrote over several semesters. The text includes extensive exercises and covers a typical semester of a first course in differential equations, following the general path of Boyce and DiPrima. The text source is available for adapatation. The text is located [here][15].
 
+#### Notes on Complex Analysis
+
+This is a collection of notes I wrote to support a year-long course in undergraduate complex analysis. It is very much a work in progress. The most complete feature is the final section, which is a proof of the prime number theorem, synthesized from a variety of sources stemming from Newman's short, complex analytic proof, and providing an explication accessiblw to an undergraduate. I could not resist a brief foray into basic measure theory to pick up the dominated convergence theorem. The text is located [here][17]. 
+
 ### Operator Theory Community
 
 #### OPT-IN
@@ -73,3 +77,4 @@ Operator Theory Talks for Early Researchers ([OTTER][11]) is a related project a
 [14]:<http://www.math.union.edu/~marianop/>
 [15]:<http://www.math.union.edu/~marianop/ODEv2/frontmatter-1.html>
 [16]:<https://rtullydo.github.io/RISP-dynamics/frontmatter-1.html/>
+[17]:<https://rtullydo.github.io/complex-analysis-411-notes/frontmatter-1.html/>

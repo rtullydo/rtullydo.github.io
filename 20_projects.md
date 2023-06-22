@@ -77,4 +77,4 @@ Operator Theory Talks for Early Researchers ([OTTER][11]) is a related project a
 [14]:<http://www.math.union.edu/~marianop/>
 [15]:<http://www.math.union.edu/~marianop/ODEv2/frontmatter-1.html>
 [16]:<https://rtullydo.github.io/RISP-dynamics/frontmatter-1.html/>
-[17]:<https://rtullydo.github.io/complex-analysis-411-notes/frontmatter-1.html/>
+[17]:<https://rtullydo.github.io/complex-analysis-411-notes/>

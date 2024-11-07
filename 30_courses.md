@@ -4,7 +4,9 @@ title: Courses
 permalink: "courses.html"
 ---
 
-### Fall 2021 (upcoming)
+### Under construction!
+
+### Fall 2021
 - Math 142 Calculus 2
 - Math 550 Real Analysis
 

@@ -6,6 +6,49 @@ permalink: "courses.html"
 
 ### Under construction!
 
+### Spring 2025
+- Math 244 Linear Analysis 1
+
+### Winter 2025
+- Math 241 (Honors) Calculus 4
+- Math 304 Vector Analysis
+
+### Fall 2024
+- Math 143 (Honors) Calculus 3
+- Math 550 Real Analysis (graduate)
+
+### Spring 2024
+- Math 143 Calculus 3
+- Math 414 Real Analysis 2
+
+### Winter 2024
+- Math 304 Vector Analysis
+- Math 413 Real Analysis 2
+
+### Fall 2023
+- Math 344 Linear Analysis 2
+- Math 412 Real Analysis 1
+
+### Spring 2023
+- Math 241 Calculus 4
+- Math 350 Mathematical Programming
+
+### Winter 2023
+- Math 142 Calculus 2
+- math 411 Complex Analysis 2
+
+### Fall 2022
+- Math 143 Calculus 3
+- Math 410 Complex Analysis 1
+
+### Spring 2022
+- Math 304 Vector Analysis
+- Math 306 Linear Algebra 
+
+### Winter 2022
+- Math 143 Calculus 3
+- Math 500 Seminar on Analysis
+
 ### Fall 2021
 - Math 142 Calculus 2
 - Math 550 Real Analysis

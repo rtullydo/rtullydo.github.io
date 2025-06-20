@@ -8,9 +8,11 @@ permalink: "courses.html"
 
 ### Spring 2025
 - Math 244 Linear Analysis 1
+	- video lectures: [YouTube playlist](https://youtube.com/playlist?list=PLd-yyEHYtIhJ7VAbOiFJ3tFu-HmRP-bxU&si=cNDdi-NhJwjmQylz)
 
 ### Winter 2025
 - Math 241 (Honors) Calculus 4
+	- video lectures: [YouTube playlist] (https://youtube.com/playlist?list=PLd-yyEHYtIhJ3kkPYcHN0K_3jOdINkO1V&si=Wnxy6_xyjBRcOWuI)
 - Math 304 Vector Analysis
 
 ### Fall 2024

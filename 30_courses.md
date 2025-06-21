@@ -4,7 +4,7 @@ title: Courses
 permalink: "courses.html"
 ---
 
-### Under construction!
+### Under constant construction!
 
 ### Spring 2025
 - Math 244 Linear Analysis 1
@@ -21,7 +21,7 @@ permalink: "courses.html"
 
 ### Spring 2024
 - Math 143 Calculus 3
-- Math 414 Real Analysis 2
+- Math 414 Real Analysis 3 - Hilbert Spaces
 
 ### Winter 2024
 - Math 304 Vector Analysis
@@ -46,6 +46,7 @@ permalink: "courses.html"
 ### Spring 2022
 - Math 304 Vector Analysis
 - Math 306 Linear Algebra 
+ - video lectures: [YouTube playlist] (https://youtube.com/playlist?list=PLd-yyEHYtIhKJG70DJmAKvHA_chG2kYRH&si=FwgSuElgicbnGo69)
 
 ### Winter 2022
 - Math 143 Calculus 3

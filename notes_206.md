@@ -4,6 +4,8 @@ title: 206 Course Materials
 permalink: "notes_206.html"
 ---
 
+## Math 206 Linear Algebra
+
 ### Lecture Notes
 
 - Chapter 1 [notes](assets/docs/206/notes/ch1.pdf)

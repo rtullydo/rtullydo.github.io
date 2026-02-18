@@ -6,7 +6,7 @@ permalink: "courses.html"
 
 ### Under constant construction!
 
-Course Notes [Archive](archive.) 
+Course Notes [Archive](archive.md) 
 
 
 ### Spring 2025

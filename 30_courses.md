@@ -6,6 +6,9 @@ permalink: "courses.html"
 
 ### Under constant construction!
 
+Course Notes [Archive](archive.) 
+
+
 ### Spring 2025
 - Math 244 Linear Analysis 1
 	- video lectures: [YouTube playlist](https://youtube.com/playlist?list=PLd-yyEHYtIhJ7VAbOiFJ3tFu-HmRP-bxU&si=cNDdi-NhJwjmQylz)

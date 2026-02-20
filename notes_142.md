@@ -4,7 +4,7 @@ title: 142 Course Materials
 permalink: "notes_142.html"
 ---
 
-## Math 206 Linear Algebra
+## Math 142 Calculus II
 
 ### Lecture Notes
 

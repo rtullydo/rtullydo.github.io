@@ -32,3 +32,11 @@ permalink: "notes_142.html"
 - [Quiz 3](assets/docs/142/quizzes/142_w26_quiz_3.pdf)
 - [Quiz 4](assets/docs/142/quizzes/142_w26_quiz_4.pdf)
 - [Quiz 5](assets/docs/142/quizzes/142_w26_quiz_5.pdf)
+
+### Exams
+- Winter 2021
+	- [Exam 1](assets/docs/142/exams/142_Exam1_w21.pdf)
+	- [Exam 2](assets/docs/142/exams/142_Exam2_w21.pdf)
+- Winter 2023
+	- [Exam 1](assets/docs/142/exams/142_Exam_1_w23.pdf)
+	- [Exam 2](assets/docs/142/exams/142_Exam_2_w23.pdf)

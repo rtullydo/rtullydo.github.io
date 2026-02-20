@@ -27,8 +27,8 @@ permalink: "notes_142.html"
 
 ### Quizzes
 
-- [Quiz 1](assets/docs/142/quizzes/206_w26_quiz_1.pdf)
-- [Quiz 2](assets/docs/142/quizzes/206_w26_quiz_2.pdf)
-- [Quiz 3](assets/docs/142/quizzes/206_w26_quiz_3.pdf)
-- [Quiz 4](assets/docs/142/quizzes/206_w26_quiz_4.pdf)
-- [Quiz 5](assets/docs/142/quizzes/206_w26_quiz_5.pdf)
+- [Quiz 1](assets/docs/142/quizzes/142_w26_quiz_1.pdf)
+- [Quiz 2](assets/docs/142/quizzes/142_w26_quiz_2.pdf)
+- [Quiz 3](assets/docs/142/quizzes/142_w26_quiz_3.pdf)
+- [Quiz 4](assets/docs/142/quizzes/142_w26_quiz_4.pdf)
+- [Quiz 5](assets/docs/142/quizzes/142_w26_quiz_5.pdf)

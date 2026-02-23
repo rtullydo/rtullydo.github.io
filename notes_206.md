@@ -15,11 +15,14 @@ permalink: "notes_206.html"
 	- 3.2 [notes](assets/docs/206/notes/3-2.pdf)
 	- 3.3 [notes](assets/docs/206/notes/3-3.pdf)
 	- 3.4 [notes](assets/docs/206/notes/3-4.pdf)
+- Chapter 5
 	- 5.1 [notes](assets/docs/206/notes/5-1.pdf)
 	- 5.2 [notes](assets/docs/206/notes/5-2.pdf)
 	- 5.4 [notes](assets/docs/206/notes/5-4.pdf)
+- Chapter 6
 	- 6.1 [notes](assets/docs/206/notes/6-1.pdf)
 	- 6.2 [notes](assets/docs/206/notes/6-2.pdf)
+- Chapter 7
 	- 7.1 [notes](assets/docs/206/notes/7-1.pdf)
 	- 7.2 [notes](assets/docs/206/notes/7-2.pdf)
 	- 7.3 [notes](assets/docs/206/notes/7-3.pdf)

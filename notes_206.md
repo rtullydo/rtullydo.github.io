@@ -19,6 +19,10 @@ permalink: "notes_206.html"
 	- 5.2 [notes](assets/docs/206/notes/5-2.pdf)
 	- 5.4 [notes](assets/docs/206/notes/5-4.pdf)
 	- 6.1 [notes](assets/docs/206/notes/6-1.pdf)
+	- 6.2 [notes](assets/docs/206/notes/6-2.pdf)
+	- 7.1 [notes](assets/docs/206/notes/7-1.pdf)
+	- 7.2 [notes](assets/docs/206/notes/7-2.pdf)
+	- 7.3 [notes](assets/docs/206/notes/7-3.pdf)
 
 ### Quizzes
 

@@ -23,6 +23,8 @@ permalink: "notes_142.html"
 	- 7.1 [Notes](assets/docs/142/notes/7-1.pdf)
 	- 7.2 [Notes](assets/docs/142/notes/7-2.pdf)
 	- 7.3 [Notes](assets/docs/142/notes/7-3.pdf)
+	- 7.4 [Notes](assets/docs/142/notes/7-4.pdf)
+	- 7.8 [Notes](assets/docs/142/notes/7-8.pdf)
 
 
 ### Quizzes

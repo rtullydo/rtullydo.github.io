@@ -8,6 +8,8 @@ permalink: "notes_142.html"
 
 ### Lecture Notes
 
+- Chapter 4
+	- 4.5 [Notes](assets/docs/142/notes/4-5.pdf)
 - Chapter 5
 	- 5.2 [Notes](assets/docs/142/notes/5-2.pdf)
 	- 5.3 [Notes](assets/docs/142/notes/5-3.pdf)

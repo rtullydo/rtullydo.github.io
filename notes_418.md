@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 206 Course Materials
-permalink: "notes_206.html"
+title: 418 Course Materials
+permalink: "notes_418.html"
 ---
 
-## Math 206 Linear Algebra
+## Math 418 Partial Differential Equations
 
 ### Lecture Notes
 
-- Preliminaries [notes](assets/docs/418/notes/418_1.pdf)
+- ODE Preliminaries [notes](assets/docs/418/notes/418_1.pdf)
 
 
 ### Quizzes

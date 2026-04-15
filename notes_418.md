@@ -12,6 +12,10 @@ permalink: "notes_418.html"
 - Chapter 1 [notes](assets/docs/418/notes/418_2.pdf)
 - Chapter 2
     - Basic transport equation [notes](assets/docs/418/notes/418_3.pdf)
+    - Non-uniform transport [notes](assets/docs/418/notes/418_4.pdf)
+    - Wave equation on the line [notes](assets/docs/418/notes/418_5.pdf)
+- Chapter 3
+    - Eigensolutions to linear evolution equations [notes](assets/docs/418/notes/418_6.pdf)
 
 
 ### Quizzes

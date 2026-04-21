@@ -19,5 +19,9 @@ permalink: "notes_418.html"
     - Fourier series part 1 [notes](assets/docs/418/notes/418_7.pdf)
 
 
-### Quizzes
+### Exams
+ - Fall 2026 (this was taught out of Strauss)
+    - [Exam 1 Fall 2025](assets/docs/418/exams/418_Exam_1_f25.pdf)
+    - [Exam 2 Fall 2025](assets/docs/418/exams/418_Exam_2_f25.pdf)
+    - [Final Exam Fall 2025](assets/docs/418/exams/418_Final_Exam_f25.pdf)
 

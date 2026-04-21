@@ -44,3 +44,5 @@ permalink: "notes_142.html"
 - Winter 2023
 	- [Exam 1](assets/docs/142/exams/142_Exam_1_w23.pdf)
 	- [Exam 2](assets/docs/142/exams/142_Exam_2_w23.pdf)
+- Winter 2026
+	- [Exam 1](assets/docs/142/exams/142_Exam_1_w26.pdf)

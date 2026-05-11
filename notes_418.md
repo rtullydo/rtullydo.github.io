@@ -16,7 +16,11 @@ permalink: "notes_418.html"
     - Wave equation on the line [notes](assets/docs/418/notes/418_5.pdf)
 - Chapter 3
     - Eigensolutions to linear evolution equations [notes](assets/docs/418/notes/418_6.pdf)
-    - Fourier series part 1 [notes](assets/docs/418/notes/418_7.pdf)
+    - Fourier series part 2 [notes](assets/docs/418/notes/418_7.pdf)
+    - Fourier series convergence [notes](assets/docs/418/notes/418_8.pdf)
+    - Fourier series change of scale [notes](assets/docs/418/notes/418_9.pdf)
+- Chapter 4
+    - Diffusion and separation of variables [notes](assets/docs/418/notes/418_10.pdf)
 
 
 ### Exams

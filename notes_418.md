@@ -21,6 +21,13 @@ permalink: "notes_418.html"
     - Fourier series change of scale [notes](assets/docs/418/notes/418_9.pdf)
 - Chapter 4
     - Diffusion and separation of variables [notes](assets/docs/418/notes/418_10.pdf)
+    - Heating ring [notes](assets/docs/418/notes/418_11.pdf)
+    - Wave equation [notes](assets/docs/418/notes/418_12.pdf)
+    - Laplace's equation [notes](assets/docs/418/notes/418_13.pdf)
+
+- Based on chapter 6 
+    - Green's functions [notes](assets/docs/418/notes/418_14.pdf)
+    - Distributional and weak derivative [notes](assets/docs/418/notes/418_15.pdf)
 
 
 ### Exams

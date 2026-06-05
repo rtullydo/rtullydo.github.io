@@ -36,3 +36,11 @@ permalink: "notes_418.html"
     - [Exam 2 Fall 2025](assets/docs/418/exams/418_Exam_2_f25.pdf)
     - [Final Exam Fall 2025](assets/docs/418/exams/418_Final_Exam_f25.pdf)
 
+### QUizzes
+ - [Quiz 1](assets/docs/418/quizzes/418_quiz_1.pdf)
+ - [Quiz 2](assets/docs/418/quizzes/418_quiz_2.pdf)
+ - [Quiz 4](assets/docs/418/quizzes/418_quiz_4.pdf)
+ - [Quiz 5](assets/docs/418/quizzes/418_quiz_5.pdf)
+ - [Exam 1 Workshop](assets/docs/418/quizzes/418_exam_1_workshop.pdf)
+ - [Exam 2 Workshop](assets/docs/418/quizzes/418_Exam_2_workshop.pdf)
+

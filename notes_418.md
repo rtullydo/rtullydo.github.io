@@ -36,6 +36,11 @@ permalink: "notes_418.html"
     - [Exam 2 Fall 2025](assets/docs/418/exams/418_Exam_2_f25.pdf)
     - [Final Exam Fall 2025](assets/docs/418/exams/418_Final_Exam_f25.pdf)
 
+ - Spring 2026 
+    - [Exam 1 Spring 2026](assets/docs/418/exams/418_Exam_1_S26.pdf)
+    - [Exam 2 Spring 2026](assets/docs/418/exams/418_Exam_2_S26.pdf)
+
+
 ### Quizzes
  - Spring 2026
     - [Quiz 1](assets/docs/418/quizzes/418_quiz_1.pdf)
